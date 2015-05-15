@@ -1,0 +1,7 @@
+C:\Users\pmanso\Desktop\PocketMsSql\PocketMsSql\PocketMsSql\bin\Release\PocketMsSql.exe
+C:\Users\pmanso\Desktop\PocketMsSql\PocketMsSql\PocketMsSql\bin\Release\PocketMsSql.pdb
+C:\Users\pmanso\Desktop\PocketMsSql\PocketMsSql\PocketMsSql\obj\Release\PocketMsSql.Form1.resources
+C:\Users\pmanso\Desktop\PocketMsSql\PocketMsSql\PocketMsSql\obj\Release\PocketMsSql.Properties.Resources.resources
+C:\Users\pmanso\Desktop\PocketMsSql\PocketMsSql\PocketMsSql\obj\Release\PocketMsSql.csproj.GenerateResource.Cache
+C:\Users\pmanso\Desktop\PocketMsSql\PocketMsSql\PocketMsSql\obj\Release\PocketMsSql.exe
+C:\Users\pmanso\Desktop\PocketMsSql\PocketMsSql\PocketMsSql\obj\Release\PocketMsSql.pdb
