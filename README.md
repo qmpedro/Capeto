@@ -1,4 +1,4 @@
-Microsoft Sql Server Pocket IDE
+Microsoft SQL Server Pocket IDE
 ==
 
 A pocket enterprise manager to Microsoft Sql Server
