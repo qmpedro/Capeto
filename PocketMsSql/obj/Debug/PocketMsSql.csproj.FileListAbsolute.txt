@@ -6,3 +6,11 @@ C:\Users\pmanso\Desktop\PocketMsSql\PocketMsSql\PocketMsSql\obj\Debug\PocketMsSq
 C:\Users\pmanso\Desktop\PocketMsSql\PocketMsSql\PocketMsSql\obj\Debug\PocketMsSql.csproj.GenerateResource.Cache
 C:\Users\pmanso\Desktop\PocketMsSql\PocketMsSql\PocketMsSql\obj\Debug\PocketMsSql.exe
 C:\Users\pmanso\Desktop\PocketMsSql\PocketMsSql\PocketMsSql\obj\Debug\PocketMsSql.pdb
+C:\Users\pmanso\Documents\GitHub\PocketMsSql\PocketMsSql\bin\Debug\Capeto.exe
+C:\Users\pmanso\Documents\GitHub\PocketMsSql\PocketMsSql\bin\Debug\Capeto.pdb
+C:\Users\pmanso\Documents\GitHub\PocketMsSql\PocketMsSql\obj\Debug\PocketMsSql.csprojResolveAssemblyReference.cache
+C:\Users\pmanso\Documents\GitHub\PocketMsSql\PocketMsSql\obj\Debug\PocketMsSql.Form1.resources
+C:\Users\pmanso\Documents\GitHub\PocketMsSql\PocketMsSql\obj\Debug\PocketMsSql.Properties.Resources.resources
+C:\Users\pmanso\Documents\GitHub\PocketMsSql\PocketMsSql\obj\Debug\PocketMsSql.csproj.GenerateResource.Cache
+C:\Users\pmanso\Documents\GitHub\PocketMsSql\PocketMsSql\obj\Debug\Capeto.exe
+C:\Users\pmanso\Documents\GitHub\PocketMsSql\PocketMsSql\obj\Debug\Capeto.pdb

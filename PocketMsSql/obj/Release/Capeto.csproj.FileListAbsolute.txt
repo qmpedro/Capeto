@@ -1,0 +1,7 @@
+C:\Users\pmanso\Documents\GitHub\PocketMsSql\PocketMsSql\bin\Release\Capeto.exe
+C:\Users\pmanso\Documents\GitHub\PocketMsSql\PocketMsSql\bin\Release\Capeto.pdb
+C:\Users\pmanso\Documents\GitHub\PocketMsSql\PocketMsSql\obj\Release\PocketMsSql.Form1.resources
+C:\Users\pmanso\Documents\GitHub\PocketMsSql\PocketMsSql\obj\Release\Capeto.Properties.Resources.resources
+C:\Users\pmanso\Documents\GitHub\PocketMsSql\PocketMsSql\obj\Release\Capeto.csproj.GenerateResource.Cache
+C:\Users\pmanso\Documents\GitHub\PocketMsSql\PocketMsSql\obj\Release\Capeto.exe
+C:\Users\pmanso\Documents\GitHub\PocketMsSql\PocketMsSql\obj\Release\Capeto.pdb
